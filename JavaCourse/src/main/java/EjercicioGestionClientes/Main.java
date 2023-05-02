@@ -4,6 +4,8 @@
  */
 package EjercicioGestionClientes;
 
+import EjercicioGestionClientes.forms.Formulario;
+
 /**
  *
  * @author Facundo
